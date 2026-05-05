@@ -83,14 +83,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [3x-ui](https://github.com/erfanxio/downloader/tree/main/downloads/3x-ui)
-
-2. [Xray-linux-64](https://github.com/erfanxio/downloader/tree/main/downloads/Xray-linux-64)
-
-3. [installer_debian_x64_2.3.3](https://github.com/erfanxio/downloader/tree/main/downloads/installer_debian_x64_2.3.3)
-
-4. [x-ui-linux-amd64.tar](https://github.com/erfanxio/downloader/tree/main/downloads/x-ui-linux-amd64.tar)
+1. [v2rayN-windows-64](https://github.com/erfanxio/downloader/tree/main/downloads/v2rayN-windows-64)
 
 ---
