@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [3x-ui](https://github.com/erfanxio/downloader/tree/main/downloads/3x-ui)
+
+---
