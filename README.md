@@ -79,10 +79,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [3x-ui](https://github.com/erfanxio/downloader/tree/main/downloads/3x-ui)
 
-2. [x-ui-linux-amd64.tar](https://github.com/erfanxio/downloader/tree/main/downloads/x-ui-linux-amd64.tar)
+2. [Xray-linux-64](https://github.com/erfanxio/downloader/tree/main/downloads/Xray-linux-64)
+
+3. [x-ui-linux-amd64.tar](https://github.com/erfanxio/downloader/tree/main/downloads/x-ui-linux-amd64.tar)
 
 ---
