@@ -87,8 +87,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [v2rayN-windows-64](https://github.com/erfanxio/downloader/tree/main/downloads/v2rayN-windows-64)
+1. [v2rayNG_2.0.18_universal](https://github.com/erfanxio/downloader/tree/main/downloads/v2rayNG_2.0.18_universal)
 
 ---
